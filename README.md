@@ -27,5 +27,4 @@ Welcome to the **ATM Management System**! This project simulates the functionali
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rahul-khichar/atm-management-system.git
-   cd atm-management-system
+   git clone https://github.com/rahulkhichar7/ATM-Cash-Flow-using-python-class.git
